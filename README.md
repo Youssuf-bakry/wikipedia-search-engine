@@ -29,8 +29,8 @@ The task is to debounce the input field so as to get the benefits of debouncing 
 
 ---
 
-- [x] Responsive Design
-- [⬜ ] Debouncing the search input.
+- [] Responsive Design
+- [x] Debouncing the search input.
 
 ## Nice to know
 
