@@ -10,6 +10,7 @@
 
 [<img src='https://th.bing.com/th/id/OIP.H3xdQJplc2jNByqYARsyxwHaD3?w=286&h=180&c=7&r=0&o=5&pid=1.7'>](https://wikipedia-search-engine-xi.vercel.app/)
 
+[github Live Page](https://youssuf-bakry.github.io/wikipedia-search-engine/)
 ## Technologies used
 
 ---
